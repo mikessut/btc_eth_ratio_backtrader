@@ -1,3 +1,11 @@
+## Installation
+
+    pip3 install -r requirements.txt
+
+Backtrader needs matplotlib version 3.2.2, otherwise an exception will prevent 
+generating the chart.
+
+## Notes
 
 As you can tell, it took a fair amount of debug to figure out backtrader.  Seems
 to sort of work and I think supports the work we were looking at previously.

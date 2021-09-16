@@ -1,4 +1,4 @@
 backtrader
 numpy
-matplotlib
+matplotlib==3.2.2
 pandas
