@@ -1,4 +1,10 @@
 backtrader
 numpy
-matplotlib
+matplotlib==3.2.2
 pandas
+jupyter
+prompt-toolkit
+cython
+TA-Lib
+zipline-reloaded
+pyfolio-reloaded
